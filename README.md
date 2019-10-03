@@ -1,13 +1,13 @@
 # Regular-Expressions-list-for-Arabic
-Regular expressions that helps for processing Arabic text.
+Regular expressions that helps for processing Arabic text.  
 Note: this repo uses JavaScript syntax for regular expressions.
 
 ## All Arabic Characters
 
 | Description  | Regular Expression |
 | ------------- | ------------- |
-| All Arabic Characters (1)  | [ء-ي] |
-| All Arabic Characters (2)  | [\u0600-\u06FF]   |
+| All Arabic characters (1)  | [ء-ي] |
+| All Arabic characters (2)  | [\u0600-\u06FF]   |
 | Arabic & Persian characters  | [گچپژیلفقهمو ء-ي] |
 | Arabic & Persian characters & Hindu–Arabic numbers | [؀-ۿ] |
 
@@ -25,6 +25,6 @@ Note: this repo uses JavaScript syntax for regular expressions.
 
 | Description  | Regular Expression |
 | ------------- | ------------- |
-| Arabic Word | \b(\w*[ء-ي]\w*)\b  |
+| Arabic word | \b(\w*[ء-ي]\w*)\b  |
 
 
